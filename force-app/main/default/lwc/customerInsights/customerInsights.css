@@ -1,0 +1,33 @@
+.label {
+    font-size: 0.75rem;
+    color: #706e6b;
+    text-transform: uppercase;
+}
+
+.score {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.intent-high {
+    color: #2e844a;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.intent-medium {
+    color: #fe9339;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.intent-low {
+    color: #ba0517;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.activity-item {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #dddbda;
+}
